@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fa;
+}
+
+
+/* Make the information cards equal height */
+
+.card {
+    border-radius: 8px;
+}
+
+
+/* Statistics numbers */
+
+#totalAmount,
+#expenseCount,
+#highestAmount {
+    font-weight: bold;
+}
+
+
+/* Category badge */
+
+.category-badge {
+    font-size: 0.85rem;
+}
+
+
+/* Table buttons */
+
+.action-btn {
+    margin-right: 5px;
+}
+
+
+/* Footer */
+
+footer {
+    margin-top: 50px;
+}
